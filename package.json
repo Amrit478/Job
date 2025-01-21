@@ -7,8 +7,7 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1",
-    "snow-freedom": "file:",
-    "web-vitals": "^4.2.4"
+    "snow-freedom": "file:"
   },
   "scripts": {
     "start": "react-scripts start",
