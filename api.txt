@@ -1,0 +1,12 @@
+I will use Promise Api to call the functions in my project because it is better than axios. In this I can get multiple responses in an array. Also it is better than callback function where it uses try and catch block to which makes it easier to debug.
+
+Also I will provide link here for above reading 
+
+https://www.freecodecamp.org/news/javascript-promise-object-explained/
+
+Now I will study about how Javascript Fetch API works with javascript. I will provide its summary first and the link if I will run into any issues later .
+
+
+The link is here -
+
+https://www.freecodecamp.org/news/javascript-fetch-api-for-beginners/
