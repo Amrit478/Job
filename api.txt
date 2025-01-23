@@ -6,7 +6,13 @@ https://www.freecodecamp.org/news/javascript-promise-object-explained/
 
 Now I will study about how Javascript Fetch API works with javascript. I will provide its summary first and the link if I will run into any issues later .
 
+Expalning how those methods works in this link nothing much so I will start writing coding now
 
 The link is here -
 
 https://www.freecodecamp.org/news/javascript-fetch-api-for-beginners/
+
+
+Making requests using promises with api article link is given here
+
+https://medium.com/@armando_amador/how-to-make-http-requests-using-fetch-api-and-promises-b0ca7370a444
